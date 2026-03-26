@@ -27,6 +27,14 @@ Los endpoints se pueden probar con **Insomnia**, **Postman**, o cualquier client
 
 application.properties
 
+## Clonar el repositorio:
+
+git clone https://github.com/bermeo2000/Grupo2-Sprintboot.git
+cd Grupo2-Sprintboot
+
+Ejecutar con Maven:
+mvn spring-boot:run
+
 ### Estructura del proyecto
 
 src/main/java/com/maestria/estudiante/
